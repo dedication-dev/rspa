@@ -1,0 +1,15 @@
+[package]
+name = "rspa"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/dedication-dev/rspa"
+homepage = "https://github.com/dedication-dev/rspa"
+description = """
+Work in progress Rust SPA library.
+"""
+categories = ["gui", "wasm", "web-programming"]
+keywords = ["spa", "web", "dom"]
+
+[dependencies]
